@@ -97,9 +97,3 @@ git push
 
 ---
 
-Let me know if you want me to include:
-
-* A live demo link after deployment
-* GIF/screenshots of the UI
-
-You're ready to show this off on your GitHub and resume 👏
